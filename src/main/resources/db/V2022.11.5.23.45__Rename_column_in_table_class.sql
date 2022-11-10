@@ -1,0 +1,1 @@
+ALTER TABLE class RENAME time_course to class_time;
